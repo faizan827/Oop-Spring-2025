@@ -3,8 +3,8 @@
 
 class Car {
 private:
-    string ; brand;
-    string ; model;
+    string  brand;
+    string  model;
     double rentalPrice;
     bool isAvailable;
 
